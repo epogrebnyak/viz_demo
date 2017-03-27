@@ -33,11 +33,11 @@
  - forecast
  
 - Make decisions on:
- - fx forecast 
- - are we in or out of recession
- - what parts of economy are moving what direction
- - how larger economy affects specific businesses
- - broad "what to expect"?
+  - fx forecast 
+  - are we in or out of recession
+  - what parts of economy are moving what direction
+  - how larger economy affects specific businesses
+  - broad "what to expect"?
 
 - Download csv
 
