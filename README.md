@@ -32,6 +32,7 @@
 ## Hosting
 - <https://datachart.cc.s3-eu-west-1.amazonaws.com/>
 - or similar to "одноклассники" at Heroku/Elastic BeansTalk
+- Jekyll at github-pages with redirect
 
 ## User case
 
