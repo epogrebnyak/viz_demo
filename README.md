@@ -1,4 +1,12 @@
-### Project outline
+#Todo:
+- unit of description for illustration - "one pager" with URL
+- indicator pae
+- theme page
+
+#Not todo:
+- error.html
+
+##Project outline
 
 ##Unit of diplay
 
