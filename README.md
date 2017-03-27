@@ -1,5 +1,10 @@
 ### Project outline
 
+##Unit of diplay
+
+
+--------------------------------
+
 ```
 1. Source+ETL+naming = "Dataset/database"
 
@@ -11,29 +16,32 @@
 
 ```
 ## Data
-- Many target to download data from Rossta and CB
+- many targets to download data from Rossta and CB
 
 ## Graphics
-- 
+- Unit of display: graph + comment.
 
 ## Hosting
-- 
-
+- <https://datachart.cc.s3-eu-west-1.amazonaws.com/>
+- or similar to "одноклассники" at Heroku/Elastic BeansTalk
 
 ## User case
 
-- Obtain comment on most recent statistics 
+- Obtain comment on most recent statistics: 
  - latest values
  - detrended data
  - forecast
  
-- Make decisions on 
+- Make decisions on:
  - fx forecast 
  - are we in or out of recession
  - what parts of economy are moving what direction
  - how larger economy affects specific businesses
  - broad "what to expect"?
 
+- Download csv
+
+- Check popular statistics 
 
 ## 
 ## 
