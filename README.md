@@ -69,7 +69,9 @@ Matplotlib/pandas with Seaborn theme:
 
 See also [IPython notebook](rub_oil.ipynb)
 
+
 ### More plotting examples: 
 - <https://github.com/epogrebnyak/plotting>
 - <https://github.com/epogrebnyak/data-rosstat-kep/blob/master/kep/getter/plots.py>
 - <https://github.com/epogrebnyak/testbed-ipython-notebook>
+- <https://www.newyorkfed.org/medialibrary/media/research/directors_charts/global_all.pdf>
